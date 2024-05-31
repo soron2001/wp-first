@@ -1,0 +1,142 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  .heading{
+    padding: 15px 150px;
+    background-color: silver;
+    display: flex;
+    justify-content: space-between;
+    
+  }
+  .logo-text{
+    font-weight: bold;
+    display: inline-block;
+  }
+  .it{
+    color: rgb(255, 0, 0);
+  }
+.menu li{
+    list-style: none;
+    display: inline-block;
+    margin-right: 15px;
+    margin-top: 10px;
+}
+.menu a{
+    color: black;
+    text-decoration: none;
+    
+}
+  .social{
+    font-size: 30px;
+    
+  }
+  .icon{
+    background-color: black;
+    padding: 8px;
+    color: silver;
+    border-radius: 50%;  
+  }
+
+  .heading-container{
+    height: 500px;
+    width: auto;
+    background-color: #f1f1f1;
+    margin: 20px 150px;
+    display: flex;
+    justify-content: space-between;
+  }
+  .h-left{
+    width: 750px;
+  }
+  .h-left h1{
+    margin: 20PX;
+    text-align: center;
+    font-weight: 900;
+    font-size: 30px;
+  }
+  .h-left h5{
+    margin: 25px;
+    color: rgb(50, 50, 50);
+
+  }
+
+
+  .h-middle{
+    width: 325px;
+    margin-left: 10px;
+  }
+  .news-one{
+    height: 245px;
+    width: 325px;
+    background: silver;
+    margin-bottom: 10px;
+  }
+  .news-two{
+    height: 245px;
+    width: 325px;
+  }
+
+.h-right{
+    width: 325px;
+    height: 500px;
+    padding-right: 10px;
+    padding-left: 10px;
+    
+}
+.news-one-text{
+    height: 245px;
+    margin-top: 50px;
+}
+.news-two-text{
+    height: 245px
+
+}
+ h5{
+    color: rgb(50, 50, 50);
+}
+
+
+
+
+
+
+  .container{
+    height: 200px;
+    width: auto;
+    background-color: #f1f1f1;
+    margin: 0px 150px;
+    border: 1px solid silver;
+    display: flex;
+    justify-content: space-between;
+    
+  }
+  .right{
+    height: 200px;
+    width: 345px;
+   
+  }
+  .middle{
+    height: 200px;
+    width: 345px;
+
+  }
+  .left{
+    height: 200px;
+    width: 345px;
+
+  }
+ .last-one{
+    width: 345px;
+    height: 200px;
+  
+ }
+
+
+
+  .footer{
+    background-color: silver;
+    margin-top: 20px;
+    padding: 10px;
+    text-align: center;
+  }
